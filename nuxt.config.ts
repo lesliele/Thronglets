@@ -14,7 +14,12 @@ export default defineNuxtConfig({
           src: "https://www.googletagmanager.com/gtag/js?id=G-KVSWCB52X7",
           async: true,
         },
-        { src: "/js/analytics.js" }
+        { src: "/js/analytics.js" },
+        {
+          async: true,
+          src: 'https://platform.twitter.com/widgets.js',
+          charset: 'utf-8'
+        }
       ],
       meta: [
         { name: 'viewport', content: 'width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no' },
