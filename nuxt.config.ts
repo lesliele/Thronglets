@@ -11,7 +11,7 @@ export default defineNuxtConfig({
       title: 'Thronglets Game',
       script: [
         {
-          src: "https://www.googletagmanager.com/gtag/js?id=G-0CNSYLJQ3V",
+          src: "https://www.googletagmanager.com/gtag/js?id=G-KVSWCB52X7",
           async: true,
         },
         { src: "/js/analytics.js" }
