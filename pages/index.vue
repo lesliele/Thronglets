@@ -1,6 +1,6 @@
 <template>
     <div class="home">
-        <iframe src="https://html5.gamedistribution.com/bb5a0186b1df40a6a0ae0c2f40b219d9/?gd_sdk_referrer_url=https://gamedistribution.com/games/color-wavee" width="750" height="1334" scrolling="none" frameborder="0"></iframe>
+        <iframe src="https://html5.gamedistribution.com/c411ed3c0ac44ec29d91df090431df75/?gd_sdk_referrer_url=https://thronglets.online/" width="640" height="360" scrolling="none" frameborder="0"></iframe>
         <Banner/>
         <Intro/>
     </div>
